@@ -39,16 +39,13 @@ Total:
      style="float: left; margin-right: 10px;" />
 </br>
 <img src="images/graph3.png"
-     style="float: left; margin-right: 10px;" />
-</br>
-<img src="images/graph4.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 </br>
-<img src="images/graph5.png"
+<img src="images/graph4.png"
      style="float: left; margin-right: 10px;" />
 </br>
 </br>
 - Trend of mission success year by year
-<img src="images/graph6.gif"
+<img src="images/graph5.gif"
      style="float: left; margin-right: 10px;" />
