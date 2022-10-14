@@ -1,5 +1,5 @@
 # DADS5001_Mini-Project
-Success rate and prices trend of Space Mission since 1957 to 2022
+Success rate and trend of Space Mission since 1957 to 2022
 
 # Author
 Natchapat Youngchoay <br/>
