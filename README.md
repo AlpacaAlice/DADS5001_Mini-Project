@@ -27,9 +27,9 @@ Total:
 2. What is the trend of mission success year by year?
 
 # Issue
-- Price data in Year before 1964 is unavailable, therefore analyze data with price will have less data that other fields
-- Last set in location is refer to country, but some location is in a sea or set as other place (need to google and set value)
-- A lot of information (refer to Graph6) that display relationship between success rate,country and year. Therefore author using GIF file to display year by year
+- Price data in year before 1964 is unavailable. Consequently, analyzing data with price will have fewer data points than other fields. 
+- Last set in location refers to country, but some locations are in the sea or set as other places (need to google and set value) 
+- A lot of information (refer to Graph6) that displays the relationship between success rate, country, and year. As a result, the author employs a GIF file to display the years one by one. 
 
 # Graph
 <img src="images/graph1.png"
