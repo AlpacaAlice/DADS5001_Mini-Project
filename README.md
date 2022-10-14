@@ -48,5 +48,7 @@ Total:
 <img src="images/graph5.png"
      style="float: left; margin-right: 10px;" />
 </br>
+</br>
+- Trend of mission success year by year
 <img src="images/graph6.gif"
      style="float: left; margin-right: 10px;" />
