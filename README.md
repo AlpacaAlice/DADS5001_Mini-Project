@@ -52,7 +52,19 @@ Total:
 - Explore a column and look for a question in the data.
 - Create draft version of plotted graph from question.
 - Start doing programming
-   - While import and clean dataset, author found that price data in year before 1964 is unavailable. Consequently, analyzing data with price will have fewer data points than other fields.
+   - Separete Year from Date column.
+   - Separate Country from Location column.
+   - Set MissionStatus to Success and Fail(Failure, Partial Failure, Prelaunch Failure)
+   - Analyze data
+      - Data of Success and Fail mission numbers (pie graph1 column1)
+      - Relationship between Success Rate and Price (pie graph1 column2)
+      - Relationship between Success Rate, Price and Year (bar graph2)
+      - Relationship between Success Rate and Country (bar graph3)
+      - Relationship between Success Rate and Year (line graph4)
+      - Relationship between Success Rate, Year and Country (bar graph5)
+   - While import and clean dataset, author found that price data in years before 1964 was unavailable. Consequently, analyzing data with price will have fewer data points than other fields.
    - Last set in location refers to country, but some locations are in the sea or set as other places (need to google and set value) 
    - Plotting multiple graphs causes data relationship confusion
    - A lot of information (refer to Graph5) that displays the relationship between success rate, country, and year. As a result, the author employs a GIF file to display the years one by one.
+- Create repository.
+- Create presentation.
