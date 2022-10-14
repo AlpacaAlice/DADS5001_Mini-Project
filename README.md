@@ -23,8 +23,8 @@ Total:
    - MissionStatus 
 
 # Analysis Question
-1. How is the relationship between success rate of space mission and country, launch year and prices?
-2. How is the trend of mission success year by year?
+1. What is the relationship between success rate of space missions and country, launch year, and prices?
+2. What is the trend of mission success year by year?
 
 # Issue
 - Price data in Year before 1964 is unavailable, therefore analyze data with price will have less data that other fields
