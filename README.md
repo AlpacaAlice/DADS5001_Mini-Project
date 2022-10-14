@@ -23,7 +23,7 @@ Total:
    - MissionStatus 
 
 # Analysis Question
-1. How is the replationship between success rate of space mission and country, launch year and prices?
+1. How is the relationship between success rate of space mission and country, launch year and prices?
 2. How is the trend of mission success year by year?
 
 # Issue
