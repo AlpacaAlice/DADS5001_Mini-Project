@@ -19,7 +19,7 @@ Total:
    - Rocket
    - Mission
    - RocketStatus
-   - Price 
+   - Price
    - MissionStatus 
 
 # Analysis Question
@@ -29,22 +29,33 @@ Total:
    - Mission success is increasing year by year. However, in year range of 1980–2010, the launch rate is kind of lower than before 1980 and will be high again in 2021.
    
 # Graph
-<img src="images/graph1.png"
-     style="float: left; margin-right: 10px;" />
 </br>
-<img src="images/graph2.png"
-     style="float: left; margin-right: 10px;" />
+- Graph01: Mission Success Rate
+<img src="images/01_SuccessRate.png"
+     style="float: left; margin-right: 10px;"
+     width="420px" height="400px" />
 </br>
-<img src="images/graph3.png"
+- Graph02: Success Rate per Price
+<img src="images/02_SuccessRate_Price.png"
+     style="float: left; margin-right: 10px;"
+     width="420px" height="400px" />
+</br>
+- Graph03: Price per Year
+<img src="images/03_Price_Year.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 </br>
-<img src="images/graph4.png"
+- Graph04: Success Rate per Country
+<img src="images/04_SuccessRate_Country.png"
+     style="float: left; margin-right: 10px;" />
+</br>
+- Graph05: Success Rate per Year
+<img src="images/05_SuccessRate_Year.png"
      style="float: left; margin-right: 10px;" />
 </br>
 </br>
-- Trend of mission success year by year
-<img src="images/graph5.gif"
+- Trend of mission success rate per country year by year
+<img src="images/06_Year_Country_SuccesRate.gif"
      style="float: left; margin-right: 10px;" />
 
 # Journey
@@ -56,12 +67,12 @@ Total:
    - Separate Country from Location column.
    - Set MissionStatus to Success and Fail(Failure, Partial Failure, Prelaunch Failure)
    - Analyze data
-      - Data of Success and Fail mission numbers (pie graph1 column1)
-      - Relationship between Success Rate and Price (pie graph1 column2)
-      - Relationship between Success Rate, Price and Year (bar graph2)
-      - Relationship between Success Rate and Country (bar graph3)
-      - Relationship between Success Rate and Year (line graph4)
-      - Relationship between Success Rate, Year and Country (bar graph5)
+      - Data of Success and Fail mission numbers (pie graph1)
+      - Relationship between Success Rate and Price (pie graph2)
+      - Relationship between Success Rate, Price and Year (bar graph3)
+      - Relationship between Success Rate and Country (bar graph4)
+      - Relationship between Success Rate and Year (line graph5)
+      - Relationship between Success Rate, Year and Country (bar graph6)
    - While import and clean dataset, author found that price data in years before 1964 was unavailable. Consequently, analyzing data with price will have fewer data points than other fields.
    - Last set in location refers to country, but some locations are in the sea or set as other places (need to google and set value) 
    - Plotting multiple graphs causes data relationship confusion
