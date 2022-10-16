@@ -22,11 +22,22 @@ Total:
    - Price
    - MissionStatus 
 
-# Analysis Question
-1. What is the relationship between success rate of space missions and country, launch year, and prices?
-   - The graph shows the answer, for example, that the year around 1988 used a high price to launch a satellite, while 2021 was the most successful year.
-2. What is the trend of mission success year by year?
-   - Mission success is increasing year by year. However, in year range of 1980–2010, the launch rate is kind of lower than before 1980 and will be high again in 2021.
+# Analysis
+What insight can we get from this dataset if we would like to know which country is a space technology leader and worth investing in with an acceptable success rate of 80%?
+
+First of all, we can analyze the worth of investing by comparing mission status success and failure (failure, partial failure, prelaunch failure).
+We can see the result plotted in graph 1, as the success rate is around 89.89%, which is well over the acceptable ratio.
+
+The revolving amount that causes success cases in the space industry will be 96.78%, or around 157084 billion dollars (refer to graph 2).
+
+Especially in 2021, which will be the year with the most spending as well as the most success, as you can see in graph 3 and graph 5 respectively.
+However, in graph 5, we can see that the space challenges were lower in 1980–2010 and have come back to bustling again in 2020.
+
+The last analysis point is plotted in graph 4, which is the success rate per country graph. We can see that the most successful country is Russia, followed by USA, Kazakhstan and China.
+
+Moreover, in case we would like to know more information, we can consider via graph 6, which displays the relationship between mission success rate and country compared year by year.
+
+In conclusion, we can decide to invest in the space industry field with an acceptable success rate of 80% in Russia or USA, which can confirm a higher success rate than other countries, especially in 2021.
    
 # Graph
 </br>
