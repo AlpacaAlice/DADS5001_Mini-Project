@@ -84,9 +84,9 @@ In conclusion, we can decide to invest in the space industry field with an acc
       - Relationship between Success Rate and Country (bar graph4)
       - Relationship between Success Rate and Year (line graph5)
       - Relationship between Success Rate, Year and Country (bar graph6)
-   - While import and clean dataset, author found that price data in years before 1964 was unavailable. Consequently, analyzing data with price will have fewer data points than other fields.
-   - Last set in location refers to country, but some locations are in the sea or set as other places (need to google and set value) 
-   - Plotting multiple graphs causes data relationship confusion
-   - A lot of information (refer to Graph5) that displays the relationship between success rate, country, and year. As a result, the author employs a GIF file to display the years one by one.
-- Create repository.
-- Create presentation.
+      
+# Issue
+- While import and clean dataset, author found that price data in years before 1964 was unavailable. Consequently, analyzing data with price will have fewer data points than other fields.
+- Last set in location refers to country, but some locations are in the sea or set as other places (need to google and set value) 
+- Plotting multiple graphs causes data relationship confusion
+- A lot of information (refer to Graph6) that displays the relationship between success rate, country, and year. As a result, the author employs a GIF file to display the years one by one.
